@@ -1,0 +1,62 @@
+.bg-banner {
+    background-image: url("https://res.cloudinary.com/duxap0zet/image/upload/v1661665659/logo/manbc_qvpgok.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+.logo-img {
+    width: 50px;
+
+}
+
+.main-title {
+    font-size: 28px;
+    font-style: normal;
+    font-family: "Roboto";
+    font-weight: 800;
+    margin-top: 10px;
+    color: #009aa8;
+    text-align: center;
+}
+
+.card1 {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.card-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.card-para {
+    color: #2a3166;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.see-more {
+    color: #ff9f00;
+    font-weight: 600;
+    font-family: "Roboto";
+
+}
+
+.contact-heading {
+    color: #ffffff;
+}
+
+.mail-heading {
+    color: #ffffff;
+}
+
+.phone-heading {
+    color: #ffffff;
+}
+
+.cards-c {
+    background-color: #086972;
+}
